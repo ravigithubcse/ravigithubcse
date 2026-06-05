@@ -181,18 +181,39 @@ open http://localhost:4200   # admin@ss.ai / Admin1234!
 
 <div align="center">
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ravigithubcse&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&count_private=true&rank_icon=github" width="420"/>
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=ravigithubcse&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366f1&ring=6366f1&fire=ff6b6b&currStreakLabel=6366f1&sideLabels=c9d1d9&dates=c9d1d9" width="420"/>
-    </td>
-  </tr>
-</table>
+<!-- GitHub Stats — uses official shields.io which is 100% reliable -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravigithubcse&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&text_color=c9d1d9&langs_count=8" width="420"/>
+![Total Repos](https://img.shields.io/badge/Repositories-12%2B-6366f1?style=for-the-badge&logo=github&logoColor=white)
+![Languages](https://img.shields.io/badge/Languages-Java%20%7C%20TypeScript%20%7C%20Python-6366f1?style=for-the-badge&logo=code&logoColor=white)
+![Experience](https://img.shields.io/badge/Experience-1.5%20Years-6366f1?style=for-the-badge&logo=briefcase&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=for-the-badge&logo=statuspage&logoColor=white)
+
+<br/>
+
+| 📊 Metric | 🔢 Value |
+|:---|:---|
+| 🗂️ **Total Repositories** | 12+ public projects |
+| 💻 **Primary Languages** | Java · TypeScript · Python |
+| ⚡ **Frameworks** | Spring Boot · Angular · FastAPI |
+| 🏗️ **Architecture** | Microservices · Event-Driven · Cloud-Native |
+| 🤖 **AI Projects** | SupplySense AI · CivicShield AI · AdaptiveFlow AI · SkillSync AI |
+| 🎓 **Education** | B.E. CSE 2024 — CGPA 8.96/10 |
+| 💼 **Experience** | 1.5 Years — Product Engineer |
+| 🌍 **Location** | Bengaluru, India |
+| 🟢 **Availability** | Immediately Available |
+| 📞 **Contact** | +91 96869 06521 |
+
+<br/>
+
+<!-- Language breakdown using reliable shields.io badges -->
+
+**Languages I work with most:**
+
+![Java](https://img.shields.io/badge/Java-40%25-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-30%25-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-15%25-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML%2FCSS](https://img.shields.io/badge/HTML%2FCSS-10%25-E34F26?style=flat-square&logo=html5&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-5%25-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
 </div>
 
