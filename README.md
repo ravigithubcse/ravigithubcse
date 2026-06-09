@@ -52,6 +52,28 @@ Open To     :
 
 ## 🚀 Featured Projects
 
+### 🌆 UrbanPulse AI — Predictive Urban Infrastructure Intelligence Platform
+
+> 🎯 Predicts urban infrastructure failures (water pipes, bridges, roads, power lines) **72 hours in advance** with **95%+ accuracy** using real-time IoT streaming and ML.
+
+**🔗 [View Repository →](https://github.com/ravigithubcse/urbanpulse-ai)**
+
+| Layer | Technology |
+|:---|:---|
+| **5 Microservices** | API Gateway · Auth · Infrastructure · Alert · Analytics |
+| **AI / ML** | ONNX Runtime · FastAPI (Python) · SHAP explainability · 95%+ accuracy |
+| **Frontend** | Angular 17 · Tailwind CSS · WebSocket real-time dashboard · Geospatial maps |
+| **Infrastructure** | Kafka · PostgreSQL + PostGIS · Redis · Elasticsearch · Docker · Kubernetes |
+
+```bash
+# Run full stack in one command
+git clone https://github.com/ravigithubcse/urbanpulse-ai.git && cd urbanpulse-ai
+docker-compose up -d
+open http://localhost:4200   # admin@urbanpulse.ai / UrbanPulse@2024
+```
+
+---
+
 ### 🏆 SupplySense AI — Predictive Supply Chain Risk Intelligence Platform
 
 > 🎯 Predicts supply chain disruptions **7–30 days before they happen** using real-time ML, news sentiment analysis, and live Kafka event streaming.
@@ -196,7 +218,7 @@ open http://localhost:4200   # admin@ss.ai / Admin1234!
 | 💻 **Primary Languages** | Java · TypeScript · Python |
 | ⚡ **Frameworks** | Spring Boot · Angular · FastAPI |
 | 🏗️ **Architecture** | Microservices · Event-Driven · Cloud-Native |
-| 🤖 **AI Projects** | SupplySense AI · CivicShield AI · AdaptiveFlow AI · SkillSync AI |
+| 🤖 **AI Projects** | UrbanPulse AI · SupplySense AI · CivicShield AI · AdaptiveFlow AI · SkillSync AI |
 | 🎓 **Education** | B.E. CSE 2024 — CGPA 8.96/10 |
 | 💼 **Experience** | 1.5 Years — Product Engineer |
 | 🌍 **Location** | Bengaluru, India |
