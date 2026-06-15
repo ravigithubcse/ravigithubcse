@@ -115,6 +115,33 @@ open http://localhost:4200   # admin@ss.ai / Admin1234!
 
 ---
 
+
+### 🧬 SkillDNA AI — World's First AI-Powered Career Digital Twin Platform
+
+> 🎯 Builds a **living AI digital twin of your career** — predicts optimal paths, salary bands, automation risk, and personalised learning roadmaps using Spring Boot microservices + Kafka.
+
+**🔗 [View Repository →](https://github.com/ravigithubcse/skilldna-ai)**
+
+| Layer | Technology |
+|:---|:---|
+| **8 Microservices** | API Gateway · User · Career Twin · Prediction · Simulation · Job Market · Learning · Notification |
+| **AI / ML** | Career path prediction · Salary band forecasting · Automation risk scoring · Career health score |
+| **Security** | Spring Security 6 · JWT · BCrypt · Stateless auth across all services |
+| **Infrastructure** | Kafka · PostgreSQL 16 + Flyway · Redis · Docker Compose · GitHub Actions CI/CD · JaCoCo 80% gate |
+
+```bash
+# Run full stack in one command
+git clone https://github.com/ravigithubcse/skilldna-ai.git && cd skilldna-ai
+docker-compose up -d
+# Swagger UI → http://localhost:8081/swagger-ui.html
+```
+
+[![Version](https://img.shields.io/badge/Version-1.0.0-9B59B6?style=flat-square)](https://github.com/ravigithubcse/skilldna-ai/releases/tag/v1.0.0)
+[![Java](https://img.shields.io/badge/Java-21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://github.com/ravigithubcse/skilldna-ai)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.2.5-6DB33F?style=flat-square&logo=springboot&logoColor=white)](https://github.com/ravigithubcse/skilldna-ai)
+[![License](https://img.shields.io/badge/License-MIT-27AE60?style=flat-square)](https://github.com/ravigithubcse/skilldna-ai/blob/main/LICENSE)
+
+---
 ### 🎯 SkillSync AI — Intelligent Skill Gap Analyser
 
 > 🎯 AI-powered skill gap analysis tool that maps candidate profiles to job requirements and generates personalised learning roadmaps.
@@ -218,7 +245,7 @@ open http://localhost:4200   # admin@ss.ai / Admin1234!
 | 💻 **Primary Languages** | Java · TypeScript · Python |
 | ⚡ **Frameworks** | Spring Boot · Angular · FastAPI |
 | 🏗️ **Architecture** | Microservices · Event-Driven · Cloud-Native |
-| 🤖 **AI Projects** | UrbanPulse AI · SupplySense AI · CivicShield AI · AdaptiveFlow AI · SkillSync AI |
+| 🤖 **AI Projects** | SkillDNA AI · UrbanPulse AI · SupplySense AI · CivicShield AI · AdaptiveFlow AI · SkillSync AI |
 | 🎓 **Education** | B.E. CSE 2024 — CGPA 8.96/10 |
 | 💼 **Experience** | 1.5 Years — Product Engineer |
 | 🌍 **Location** | Bengaluru, India |
@@ -286,8 +313,8 @@ const ravi = {
   leetcode       : "leetcode.com/u/Ravikumar02",
 
   currentlyBuilding : [
-    "DocuMind AI — Enterprise Document Intelligence & RAG Platform",
-    "SupplySense AI v1.0.0 — Released ✅"
+    "SkillDNA AI v1.0.0 — AI Career Digital Twin Platform — Released ✅",
+    "DocuMind AI — Enterprise Document Intelligence & RAG Platform"
   ],
 
   currentlyLearning : [
