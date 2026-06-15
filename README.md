@@ -1,22 +1,25 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ravi%20Kumar&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Software%20Engineer%20%7C%20AI-Integrated%20Product%20Development&descAlignY=58&descSize=17"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Ravikumar&fontSize=56&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Java%20Full%20Stack%20Engineer%20%E2%80%94%20AI-Integrated%20Platform%20Builder%20%7C%20Bengaluru%20%F0%9F%87%AE%F0%9F%87%B3&descAlignY=60&descSize=16"/>
+
+<br/>
 
 <a href="https://github.com/ravigithubcse">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=750&height=90&lines=Java+%7C+Spring+Boot+%7C+Angular+%7C+Microservices;Kafka+%7C+Redis+%7C+Docker+%7C+Kubernetes+%7C+AWS;AI-Integrated+Product+Engineer+%7C+Bengaluru+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1200&color=818CF8&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Java+21+%7C+Spring+Boot+3.2+%7C+Angular+17+%7C+Microservices;Apache+Kafka+%7C+Redis+%7C+Docker+%7C+Kubernetes+%7C+AWS;Building+Production-Grade+AI+Platforms+%F0%9F%9A%80" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ravi_Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravikumar2002/)
-[![Gmail](https://img.shields.io/badge/Gmail-rn5127610%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rn5127610@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Ravikumar02-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Ravikumar02/)
-[![Phone](https://img.shields.io/badge/Phone-9686906521-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919686906521)
+<a href="https://www.linkedin.com/in/ravikumar2002/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:rn5127610@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://leetcode.com/u/Ravikumar02/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="tel:+919686906521"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
-<br/>
+<br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ravigithubcse&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/ravigithubcse?style=for-the-badge&color=6366f1&labelColor=0D1117&label=FOLLOWERS)](https://github.com/ravigithubcse?tab=followers)
+![Profile Views](https://komarev.com/ghpvc/?username=ravigithubcse&style=for-the-badge&color=818cf8&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/ravigithubcse?style=for-the-badge&color=818cf8&labelColor=0D1117&label=FOLLOWERS)](https://github.com/ravigithubcse?tab=followers)
+[![Open To Work](https://img.shields.io/badge/OPEN%20TO%20WORK-22c55e?style=for-the-badge&logo=checkmarx&logoColor=white)](#-lets-connect)
 
 </div>
 
@@ -25,140 +28,118 @@
 ## 👨‍💻 About Me
 
 ```yaml
-Name        : Ravi Kumar
-Title       : Full-Stack Software Engineer
-Degree      : B.E. Computer Science & Engineering — 2024 Batch
-CGPA        : 8.96 / 10.0  ⭐
-Location    : Bengaluru, India 🇮🇳
-Status      : Immediately Available for Opportunities 🟢
-Experience  : 1.5 Years — Product Engineer (Trinity Mobility)
-Phone       : +91 96869 06521
+name        : Ravikumar
+role        : Java Full Stack Engineer — AI-Integrated Platform Builder
+education   : B.E. Computer Science & Engineering, VTU — 2024 | CGPA 8.96 / 10.0
+experience  : 1.5 Years — Associate Software Engineer @ Trinity Mobility Pvt. Ltd.
+location    : Bengaluru, India 🇮🇳
+availability: Immediate Joiner 🟢
 
-Core Stack  :
-  Backend   → Java 21 · Spring Boot 3.2 · Spring Security · Spring Cloud
-  Frontend  → Angular 17 · NgRx · TypeScript · Tailwind CSS
-  AI/ML     → Python · FastAPI · PyTorch · HuggingFace · scikit-learn
-  Messaging → Apache Kafka · Redis · WebSocket · STOMP
-  DevOps    → Docker · Kubernetes · GitHub Actions · AWS
-  Database  → PostgreSQL · TimescaleDB · MySQL · Elasticsearch
+stack:
+  backend   : Java 21 · Spring Boot 3.2 · Spring Security 6 · Spring Cloud Gateway
+  frontend  : Angular 17 · TypeScript · NgRx · Tailwind CSS
+  ai_ml     : Python · FastAPI · PyTorch · HuggingFace · scikit-learn
+  messaging : Apache Kafka · Redis · WebSocket · STOMP
+  devops    : Docker · Kubernetes · GitHub Actions · AWS · Terraform
+  databases : PostgreSQL · TimescaleDB · MySQL · Elasticsearch
 
-Open To     :
-  ✅ Product Engineer       ✅ Backend Engineer (Java/Spring Boot)
-  ✅ Full-Stack Engineer    ✅ Angular Developer
-  ✅ Bengaluru On-site      ✅ Hybrid / Remote
+highlight   : Built 6 production-grade AI platforms as portfolio projects
+certifications:
+  - Databricks Generative AI Fundamentals
+  - Udemy Full Stack Java + Spring Boot
+  - JSpiders Advanced Java & Microservices
+
+open_to:
+  - Java Full Stack / Backend Engineer
+  - Product Engineer (AI-integrated teams)
+  - Angular Developer | Bengaluru On-site / Hybrid / Remote
 ```
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🌆 UrbanPulse AI — Predictive Urban Infrastructure Intelligence Platform
+<table>
+<tr>
+<td width="50%" valign="top">
 
-> 🎯 Predicts urban infrastructure failures (water pipes, bridges, roads, power lines) **72 hours in advance** with **95%+ accuracy** using real-time IoT streaming and ML.
+### 🧬 SkillDNA AI
+**World's First AI-Powered Career Digital Twin**
 
-**🔗 [View Repository →](https://github.com/ravigithubcse/urbanpulse-ai)**
+> Builds a living AI digital twin of your career — predicts optimal paths, salary bands, automation risk & learning roadmaps.
 
-| Layer | Technology |
-|:---|:---|
-| **5 Microservices** | API Gateway · Auth · Infrastructure · Alert · Analytics |
-| **AI / ML** | ONNX Runtime · FastAPI (Python) · SHAP explainability · 95%+ accuracy |
-| **Frontend** | Angular 17 · Tailwind CSS · WebSocket real-time dashboard · Geospatial maps |
-| **Infrastructure** | Kafka · PostgreSQL + PostGIS · Redis · Elasticsearch · Docker · Kubernetes |
+[![Repo](https://img.shields.io/badge/View%20Repo-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ravigithubcse/skilldna-ai)
+[![Release](https://img.shields.io/badge/v1.0.0-9B59B6?style=for-the-badge)](https://github.com/ravigithubcse/skilldna-ai/releases/tag/v1.0.0)
 
-```bash
-# Run full stack in one command
-git clone https://github.com/ravigithubcse/urbanpulse-ai.git && cd urbanpulse-ai
-docker-compose up -d
-open http://localhost:4200   # admin@urbanpulse.ai / UrbanPulse@2024
-```
+`Java 21` `Spring Boot 3.2` `8 Microservices` `Kafka` `PostgreSQL` `Redis` `JWT` `Docker`
 
----
+</td>
+<td width="50%" valign="top">
 
-### 🏆 SupplySense AI — Predictive Supply Chain Risk Intelligence Platform
+### 🌆 UrbanPulse AI
+**Predictive Urban Infrastructure Intelligence**
 
-> 🎯 Predicts supply chain disruptions **7–30 days before they happen** using real-time ML, news sentiment analysis, and live Kafka event streaming.
+> Predicts urban infrastructure failures **72 hours in advance** with **95%+ accuracy** using real-time IoT streaming & ML.
 
-**🔗 [View Repository →](https://github.com/ravigithubcse/supplysense-ai)**
+[![Repo](https://img.shields.io/badge/View%20Repo-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ravigithubcse/urbanpulse-ai)
 
-| Layer | Technology |
-|:---|:---|
-| **6 Microservices** | API Gateway · Auth · Supply Chain · Risk Engine · Event Processor · Notifications |
-| **AI / ML** | LSTM forecasting · RoBERTa NLP sentiment · Isolation Forest anomaly detection |
-| **Frontend** | Angular 17 · NgRx · Tailwind CSS · WebSocket real-time dashboard |
-| **Infrastructure** | Kafka · PostgreSQL/TimescaleDB · Redis · Docker Compose · Kubernetes · GitHub Actions |
+`Java` `Spring Boot` `Angular 17` `ONNX` `Kafka` `PostGIS` `Elasticsearch` `Kubernetes`
 
-```bash
-# Run full stack in one command
-cd infrastructure/docker && docker compose up -d
-open http://localhost:4200   # admin@ss.ai / Admin1234!
-```
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
----
+### 🏆 SupplySense AI
+**Predictive Supply Chain Risk Intelligence**
 
-### 🛡️ CivicShield AI — Multi-Agent Emergency Response Platform
+> Predicts supply chain disruptions **7–30 days early** using LSTM forecasting, RoBERTa NLP & Isolation Forest anomaly detection.
 
-> 🎯 World's first multi-agent AI platform for community emergency response — routes, prioritises, and escalates civic incidents automatically.
+[![Repo](https://img.shields.io/badge/View%20Repo-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ravigithubcse/supplysense-ai)
 
-**🔗 [View Repository →](https://github.com/ravigithubcse/civicshield-ai)**
+`Java` `Spring Boot` `Angular 17` `Python` `Kafka` `TimescaleDB` `Redis` `Docker`
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ CivicShield AI
+**Multi-Agent Emergency Response Platform**
+
+> World's first multi-agent AI platform for community emergency response — routes, prioritises & escalates civic incidents automatically.
+
+[![Repo](https://img.shields.io/badge/View%20Repo-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ravigithubcse/civicshield-ai)
 
 `TypeScript` `Angular` `Spring Boot` `AI Agents` `Real-time Processing`
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### ⚡ AdaptiveFlow AI — Real-Time Cognitive Process Intelligence Engine
+### ⚡ AdaptiveFlow AI
+**Real-Time Cognitive Process Intelligence**
 
-> 🎯 Adaptive workflow automation engine with real-time cognitive process optimisation and AI-integrated Angular + Spring Boot architecture.
+> Adaptive workflow automation engine with real-time cognitive process optimisation and AI-integrated architecture.
 
-**🔗 [View Repository →](https://github.com/ravigithubcse/adaptiveflow-ai)**
+[![Repo](https://img.shields.io/badge/View%20Repo-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ravigithubcse/adaptiveflow-ai)
 
 `Java` `Spring Boot` `Angular` `AI Integration` `PostgreSQL`
 
----
+</td>
+<td width="50%" valign="top">
 
+### 🎯 SkillSync AI
+**Intelligent Skill Gap Analyser**
 
-### 🧬 SkillDNA AI — World's First AI-Powered Career Digital Twin Platform
+> AI-powered skill gap analysis tool that maps candidate profiles to job requirements and generates personalised learning roadmaps.
 
-> 🎯 Builds a **living AI digital twin of your career** — predicts optimal paths, salary bands, automation risk, and personalised learning roadmaps using Spring Boot microservices + Kafka.
-
-**🔗 [View Repository →](https://github.com/ravigithubcse/skilldna-ai)**
-
-| Layer | Technology |
-|:---|:---|
-| **8 Microservices** | API Gateway · User · Career Twin · Prediction · Simulation · Job Market · Learning · Notification |
-| **AI / ML** | Career path prediction · Salary band forecasting · Automation risk scoring · Career health score |
-| **Security** | Spring Security 6 · JWT · BCrypt · Stateless auth across all services |
-| **Infrastructure** | Kafka · PostgreSQL 16 + Flyway · Redis · Docker Compose · GitHub Actions CI/CD · JaCoCo 80% gate |
-
-```bash
-# Run full stack in one command
-git clone https://github.com/ravigithubcse/skilldna-ai.git && cd skilldna-ai
-docker-compose up -d
-# Swagger UI → http://localhost:8081/swagger-ui.html
-```
-
-[![Version](https://img.shields.io/badge/Version-1.0.0-9B59B6?style=flat-square)](https://github.com/ravigithubcse/skilldna-ai/releases/tag/v1.0.0)
-[![Java](https://img.shields.io/badge/Java-21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://github.com/ravigithubcse/skilldna-ai)
-[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.2.5-6DB33F?style=flat-square&logo=springboot&logoColor=white)](https://github.com/ravigithubcse/skilldna-ai)
-[![License](https://img.shields.io/badge/License-MIT-27AE60?style=flat-square)](https://github.com/ravigithubcse/skilldna-ai/blob/main/LICENSE)
-
----
-### 🎯 SkillSync AI — Intelligent Skill Gap Analyser
-
-> 🎯 AI-powered skill gap analysis tool that maps candidate profiles to job requirements and generates personalised learning roadmaps.
-
-**🔗 [View Repository →](https://github.com/ravigithubcse/SkillSync-AI)**
+[![Repo](https://img.shields.io/badge/View%20Repo-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ravigithubcse/SkillSync-AI)
 
 `TypeScript` `Angular` `NLP` `Spring Boot` `REST APIs`
 
----
-
-### 🌌 Asteroid Orbit Path Prediction ⭐2
-
-> 🎯 Machine learning model predicting asteroid orbital trajectories using NASA JPL dataset with data visualisation.
-
-**🔗 [View Repository →](https://github.com/ravigithubcse/Astroid-Orbit-Path-Prediction)**
-
-`Python` `scikit-learn` `Pandas` `NumPy` `Data Visualisation`
+</td>
+</tr>
+</table>
 
 ---
 
@@ -166,8 +147,7 @@ docker-compose up -d
 
 <div align="center">
 
-**Backend**
-
+### Backend
 ![Java](https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot_3.2-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
@@ -175,8 +155,7 @@ docker-compose up -d
 ![Python](https://img.shields.io/badge/Python_3.11-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-**Frontend**
-
+### Frontend
 ![Angular](https://img.shields.io/badge/Angular_17-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![NgRx](https://img.shields.io/badge/NgRx-BA2BD2?style=for-the-badge&logo=redux&logoColor=white)
@@ -184,29 +163,22 @@ docker-compose up -d
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-**AI / Machine Learning**
-
+### AI / ML
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-**Messaging & Caching**
-
+### Data & Messaging
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis_7.2-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket_STOMP-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-
-**Databases**
-
+![Redis](https://img.shields.io/badge/Redis_7-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL_16-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![TimescaleDB](https://img.shields.io/badge/TimescaleDB-FDB515?style=for-the-badge&logo=timescale&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**DevOps & Cloud**
-
+### DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -214,87 +186,75 @@ docker-compose up -d
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**Tools**
-
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <div align="center">
 
-<!-- GitHub Stats — uses official shields.io which is 100% reliable -->
-
-![Total Repos](https://img.shields.io/badge/Repositories-12%2B-6366f1?style=for-the-badge&logo=github&logoColor=white)
-![Languages](https://img.shields.io/badge/Languages-Java%20%7C%20TypeScript%20%7C%20Python-6366f1?style=for-the-badge&logo=code&logoColor=white)
-![Experience](https://img.shields.io/badge/Experience-1.5%20Years-6366f1?style=for-the-badge&logo=briefcase&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=for-the-badge&logo=statuspage&logoColor=white)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ravigithubcse&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818CF8&icon_color=818CF8&text_color=c9d1d9&rank_icon=github" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ravigithubcse&theme=tokyonight&hide_border=true&background=0D1117&stroke=818CF8&ring=818CF8&fire=ff6b6b&currStreakLabel=818CF8" />
 
 <br/>
 
-| 📊 Metric | 🔢 Value |
-|:---|:---|
-| 🗂️ **Total Repositories** | 12+ public projects |
-| 💻 **Primary Languages** | Java · TypeScript · Python |
-| ⚡ **Frameworks** | Spring Boot · Angular · FastAPI |
-| 🏗️ **Architecture** | Microservices · Event-Driven · Cloud-Native |
-| 🤖 **AI Projects** | SkillDNA AI · UrbanPulse AI · SupplySense AI · CivicShield AI · AdaptiveFlow AI · SkillSync AI |
-| 🎓 **Education** | B.E. CSE 2024 — CGPA 8.96/10 |
-| 💼 **Experience** | 1.5 Years — Product Engineer |
-| 🌍 **Location** | Bengaluru, India |
-| 🟢 **Availability** | Immediately Available |
-| 📞 **Contact** | +91 96869 06521 |
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravigithubcse&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818CF8&text_color=c9d1d9&langs_count=8" />
 
 <br/>
 
-<!-- Language breakdown using reliable shields.io badges -->
-
-**Languages I work with most:**
-
-![Java](https://img.shields.io/badge/Java-40%25-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-30%25-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-15%25-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML%2FCSS](https://img.shields.io/badge/HTML%2FCSS-10%25-E34F26?style=flat-square&logo=html5&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-5%25-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ravigithubcse&theme=tokyo-night&bg_color=0D1117&color=818CF8&line=818CF8&point=ff6b6b&area=true&hide_border=true" width="98%"/>
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 🏅 Certifications & Achievements
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ravigithubcse&theme=tokyo-night&bg_color=0D1117&color=6366f1&line=6366f1&point=ff6b6b&area=true&hide_border=true" width="95%"/>
-
-</div>
-
----
-
-## 🏅 Achievements & Certifications
-
-<div align="center">
-
-| 🏆 Achievement | 📋 Details |
-|:---|:---|
-| 🎓 **B.E. Computer Science** | CGPA **8.96 / 10.0** — 2024 Batch |
-| 💼 **Professional Experience** | 1.5 years — Product Engineer · Trinity Mobility |
-| 🤖 **Enterprise AI Platform** | SupplySense AI — 8-service platform with ML models |
-| ☁️ **Cloud Native** | Docker · Kubernetes · AWS EKS · Terraform |
-| 🔐 **Security** | JWT · OAuth2 · RBAC · Redis token blacklisting |
-| 📜 **Udemy Certified** | Full Stack Java + Spring Boot Development |
-| 📜 **JSpiders Certified** | Advanced Java · Spring Framework · Microservices |
-| 🟡 **LeetCode** | [Ravikumar02](https://leetcode.com/u/Ravikumar02/) — Active problem solver |
-| 🟠 **HackerRank** | Active competitive programmer — Java & Python |
-| 🌐 **12+ Repositories** | Multiple AI-integrated portfolio projects |
-| ⭐ **Open Source** | Asteroid Orbit Prediction — 2 GitHub Stars |
+<table>
+<tr>
+  <td align="center">🎓</td>
+  <td><strong>B.E. Computer Science & Engineering</strong></td>
+  <td>VTU, 2024 Batch — CGPA <strong>8.96 / 10.0</strong></td>
+</tr>
+<tr>
+  <td align="center">🤖</td>
+  <td><strong>Databricks Generative AI Fundamentals</strong></td>
+  <td>Certified — LLMs, RAG, Vector Databases</td>
+</tr>
+<tr>
+  <td align="center">📜</td>
+  <td><strong>Udemy — Full Stack Java + Spring Boot</strong></td>
+  <td>Spring Boot · Microservices · REST APIs</td>
+</tr>
+<tr>
+  <td align="center">📜</td>
+  <td><strong>JSpiders — Advanced Java & Microservices</strong></td>
+  <td>Spring Framework · Design Patterns · JPA</td>
+</tr>
+<tr>
+  <td align="center">💼</td>
+  <td><strong>Professional Experience</strong></td>
+  <td>1.5 Years — IoT data pipelines · Kafka · Spring Boot · Angular</td>
+</tr>
+<tr>
+  <td align="center">🧬</td>
+  <td><strong>6 AI Platform Releases</strong></td>
+  <td>SkillDNA AI · UrbanPulse AI · SupplySense AI · CivicShield AI · AdaptiveFlow AI · SkillSync AI</td>
+</tr>
+<tr>
+  <td align="center">🏗️</td>
+  <td><strong>Cloud-Native Architecture</strong></td>
+  <td>Docker · Kubernetes · AWS · Terraform · GitHub Actions CI/CD</td>
+</tr>
+<tr>
+  <td align="center">🟡</td>
+  <td><strong>LeetCode — <a href="https://leetcode.com/u/Ravikumar02/">Ravikumar02</a></strong></td>
+  <td>Active DSA problem solver — Java</td>
+</tr>
+</table>
 
 </div>
 
@@ -302,50 +262,53 @@ docker-compose up -d
 
 ## 🎯 Currently
 
-```javascript
-const ravi = {
-  status         : "Actively seeking opportunities 🟢",
-  location       : "Bengaluru, India 🇮🇳",
-  availability   : "Immediate joiner — 0 days notice",
-  phone          : "+91 96869 06521",
-  email          : "rn5127610@gmail.com",
-  linkedin       : "linkedin.com/in/ravikumar2002",
-  leetcode       : "leetcode.com/u/Ravikumar02",
+```typescript
+const ravikumar = {
+  status       : "Actively seeking opportunities — immediate joiner 🟢",
+  location     : "Bengaluru, India 🇮🇳",
+  phone        : "+91 96869 06521",
+  email        : "rn5127610@gmail.com",
+  linkedin     : "linkedin.com/in/ravikumar2002",
 
-  currentlyBuilding : [
-    "SkillDNA AI v1.0.0 — AI Career Digital Twin Platform — Released ✅",
-    "DocuMind AI — Enterprise Document Intelligence & RAG Platform"
+  shipped: [
+    "✅ SkillDNA AI v1.0.0  — AI Career Digital Twin (8 microservices, Kafka, PostgreSQL, Docker)",
+    "✅ UrbanPulse AI       — 72-hour infrastructure failure prediction (95%+ accuracy)",
+    "✅ SupplySense AI      — Supply chain disruption prediction (7–30 day early warning)",
+    "✅ CivicShield AI      — Multi-agent emergency response platform",
   ],
 
-  currentlyLearning : [
+  building: [
+    "🔨 DocuMind AI — Enterprise Document Intelligence & RAG Platform",
+  ],
+
+  learning: [
     "LangChain & RAG pipelines",
     "AWS Solutions Architect",
-    "Advanced Kubernetes patterns"
+    "Advanced Kubernetes patterns",
+    "System Design at scale",
   ],
 
-  lookingFor : [
-    "Product Engineer",
-    "Full-Stack Engineer (Java + Angular)",
-    "Backend Engineer (Spring Boot)",
-    "AI-integrated product teams"
+  openTo: [
+    "Java Full Stack / Backend Engineer",
+    "Product Engineer (AI-integrated teams)",
+    "Angular Developer",
+    "Bengaluru on-site · Hybrid · Remote",
   ],
-
-  funFact : "I build production-grade AI platforms as portfolio projects! 🚀"
-};
+} as const;
 ```
 
 ---
 
-## 🤝 Let's Connect & Work Together
+## 🤝 Let's Connect
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/ravikumar2002/">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
 <a href="mailto:rn5127610@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-rn5127610%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://leetcode.com/u/Ravikumar02/">
@@ -353,52 +316,34 @@ const ravi = {
 </a>
 &nbsp;
 <a href="tel:+919686906521">
-  <img src="https://img.shields.io/badge/Call_Me-96869_06521-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Call-+91%2096869%2006521-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-### 💼 Recruiter? I am ready to join immediately!
-
 <table>
   <tr>
-    <td align="center">🎓</td>
-    <td><strong>B.E. CSE 2024</strong> — CGPA 8.96/10</td>
-    <td align="center">📍</td>
-    <td><strong>Bengaluru, India</strong></td>
+    <td align="center">🎓</td><td><strong>B.E. CSE 2024</strong> — CGPA 8.96 / 10</td>
+    <td align="center">📍</td><td><strong>Bengaluru, India</strong></td>
   </tr>
   <tr>
-    <td align="center">💼</td>
-    <td><strong>1.5 yrs experience</strong> — Product Engineer</td>
-    <td align="center">🟢</td>
-    <td><strong>Immediately Available</strong></td>
+    <td align="center">💼</td><td><strong>1.5 yrs</strong> — Product Engineer @ Trinity Mobility</td>
+    <td align="center">🟢</td><td><strong>Immediate Joiner — 0 days notice</strong></td>
   </tr>
   <tr>
-    <td align="center">🛠️</td>
-    <td><strong>Java · Spring Boot · Angular · Kafka</strong></td>
-    <td align="center">📞</td>
-    <td><strong>+91 96869 06521</strong></td>
+    <td align="center">🛠️</td><td><strong>Java · Spring Boot · Angular 17 · Kafka</strong></td>
+    <td align="center">📞</td><td><strong>+91 96869 06521</strong></td>
   </tr>
   <tr>
-    <td align="center">🤖</td>
-    <td><strong>AI-integrated enterprise platform builder</strong></td>
-    <td align="center">📧</td>
-    <td><strong>rn5127610@gmail.com</strong></td>
+    <td align="center">🧬</td><td><strong>6 AI platforms shipped as portfolio</strong></td>
+    <td align="center">📧</td><td><strong>rn5127610@gmail.com</strong></td>
   </tr>
 </table>
 
 <br/>
 
-> 📩 **Email:** rn5127610@gmail.com &nbsp;|&nbsp; 📞 **Phone:** +91 96869 06521 &nbsp;|&nbsp; 💼 **LinkedIn:** [ravikumar2002](https://www.linkedin.com/in/ravikumar2002/)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn"/>
 
-<br/>
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
-
-**⭐ If my work impressed you, please star my repositories — it helps a lot!**
-
-*Made with ❤️ and lots of ☕ &nbsp;|&nbsp; Ravi Kumar &nbsp;|&nbsp; Bengaluru, India 🇮🇳*
+*Built with passion by **Ravikumar** — Bengaluru, India 🇮🇳 · Ravi Future Labs*
 
 </div>
