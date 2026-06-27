@@ -139,6 +139,24 @@ open_to:
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌾 Agri-Twin AI
+**Farm Commodity Digital Twin for Indian Farmers**
+
+> India's smallholder farmer intelligence platform — digital twin per farm with land parcels, crop history, yield prediction & blockchain traceability roadmap.
+
+[![Repo](https://img.shields.io/badge/View%20Repo-1565C0?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ravigithubcse/agri-twin)
+[![Module 1](https://img.shields.io/badge/Module_1-Live-22c55e?style=for-the-badge)](https://github.com/ravigithubcse/agri-twin/blob/main/docs/MODULE_1_COMPLETION.md)
+
+`Java 21` `Spring Boot 3` `Angular 19` `PostgreSQL` `JWT` `Docker` `GitHub Actions CI`
+
+</td>
+<td width="50%" valign="top">
+
+</td>
+</tr>
 </table>
 
 ---
