@@ -212,15 +212,23 @@ open_to:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ravigithubcse&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818CF8&icon_color=818CF8&text_color=c9d1d9&rank_icon=github" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=ravigithubcse&theme=tokyonight&hide_border=true&background=0D1117&stroke=818CF8&ring=818CF8&fire=ff6b6b&currStreakLabel=818CF8&dates=c9d1d9" />
+<!-- Row 1: Stats + Streak (both reliable services) -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ravigithubcse&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818CF8&icon_color=818CF8&text_color=c9d1d9&rank_icon=github&cache_seconds=86400&count_private=true" />
+<img height="180em" src="https://streak-stats.demolab.com/?user=ravigithubcse&theme=tokyonight&hide_border=true&background=0D1117&stroke=818CF8&ring=818CF8&fire=ff6b6b&currStreakLabel=818CF8&dates=c9d1d9&sideLabels=c9d1d9" />
+
+<br/><br/>
+
+<!-- Row 2: Top languages -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravigithubcse&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818CF8&text_color=c9d1d9&langs_count=8&cache_seconds=86400" />
+
+<br/><br/>
+
+<!-- Row 3: Profile summary (backup stats — different service, less rate limited) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ravigithubcse&theme=tokyonight" width="98%"/>
 
 <br/>
 
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravigithubcse&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818CF8&text_color=c9d1d9&langs_count=8" />
-
-<br/>
-
+<!-- Row 4: Activity graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ravigithubcse&theme=tokyo-night&bg_color=0D1117&color=818CF8&line=818CF8&point=ff6b6b&area=true&hide_border=true" width="98%"/>
 
 </div>
