@@ -213,7 +213,7 @@ open_to:
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ravigithubcse&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818CF8&icon_color=818CF8&text_color=c9d1d9&rank_icon=github" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ravigithubcse&theme=tokyonight&hide_border=true&background=0D1117&stroke=818CF8&ring=818CF8&fire=ff6b6b&currStreakLabel=818CF8" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=ravigithubcse&theme=tokyonight&hide_border=true&background=0D1117&stroke=818CF8&ring=818CF8&fire=ff6b6b&currStreakLabel=818CF8&dates=c9d1d9" />
 
 <br/>
 
