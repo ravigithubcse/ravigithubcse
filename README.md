@@ -212,17 +212,20 @@ open_to:
 
 <div align="center">
 
-<!-- GitHub Stats + Streak — Row 1 -->
-<a href="https://github.com/ravigithubcse">
-  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=ravigithubcse&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818CF8&icon_color=818CF8&text_color=c9d1d9&rank_icon=github&include_all_commits=true&count_private=true" />
-</a>
-<a href="https://github.com/ravigithubcse">
-  <img height="195px" src="https://streak-stats.demolab.com/?user=ravigithubcse&theme=tokyonight&hide_border=true&background=0D1117&stroke=818CF8&ring=818CF8&fire=ff6b6b&currStreakLabel=818CF8&sideLabels=c9d1d9&dates=c9d1d9" />
-</a>
+<!-- ── Streak Stats (reliable) ── -->
+<img src="https://streak-stats.demolab.com/?user=ravigithubcse&theme=tokyonight&hide_border=true&background=0D1117&stroke=818CF8&ring=818CF8&fire=ff6b6b&currStreakLabel=818CF8&sideLabels=c9d1d9&dates=c9d1d9&border_radius=12" width="60%" />
 
 <br/><br/>
 
-<!-- Language distribution — Row 2 (shields.io — always works) -->
+<!-- ── Quick Stats Row (shields.io — Cloudflare CDN, 100% reliable) ── -->
+<img src="https://img.shields.io/badge/Total%20Contributions-2%2C533-818CF8?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Public%20Repos-19-22c55e?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Longest%20Streak-731%20days-ff6b6b?style=for-the-badge&logo=fire&logoColor=white" />
+<img src="https://img.shields.io/badge/Stars%20Earned-8-f59e0b?style=for-the-badge&logo=star&logoColor=white" />
+
+<br/><br/>
+
+<!-- ── Languages (shields.io — always loads, exact data from repos) ── -->
 <img src="https://img.shields.io/badge/TypeScript-35.4%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-23.5%25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-14.7%25-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -232,12 +235,7 @@ open_to:
 
 <br/><br/>
 
-<!-- Profile Summary — Row 3 (github-profile-summary-cards — reliable, different service) -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ravigithubcse&theme=tokyonight" width="100%" />
-
-<br/>
-
-<!-- Activity Graph — Row 4 -->
+<!-- ── Activity Graph ── -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ravigithubcse&theme=tokyo-night&bg_color=0D1117&color=818CF8&line=818CF8&point=ff6b6b&area=true&hide_border=true&radius=8" width="100%" />
 
 </div>
