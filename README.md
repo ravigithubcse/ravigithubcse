@@ -212,26 +212,36 @@ open_to:
 
 <div align="center">
 
-<!-- Row 1: Stats + Streak (both reliable services) -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ravigithubcse&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818CF8&icon_color=818CF8&text_color=c9d1d9&rank_icon=github&cache_seconds=86400&count_private=true" />
-<img height="180em" src="https://streak-stats.demolab.com/?user=ravigithubcse&theme=tokyonight&hide_border=true&background=0D1117&stroke=818CF8&ring=818CF8&fire=ff6b6b&currStreakLabel=818CF8&dates=c9d1d9&sideLabels=c9d1d9" />
+<!-- GitHub Stats + Streak — Row 1 -->
+<a href="https://github.com/ravigithubcse">
+  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=ravigithubcse&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818CF8&icon_color=818CF8&text_color=c9d1d9&rank_icon=github&include_all_commits=true&count_private=true" />
+</a>
+<a href="https://github.com/ravigithubcse">
+  <img height="195px" src="https://streak-stats.demolab.com/?user=ravigithubcse&theme=tokyonight&hide_border=true&background=0D1117&stroke=818CF8&ring=818CF8&fire=ff6b6b&currStreakLabel=818CF8&sideLabels=c9d1d9&dates=c9d1d9" />
+</a>
 
 <br/><br/>
 
-<!-- Row 2: Top languages -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravigithubcse&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818CF8&text_color=c9d1d9&langs_count=8&cache_seconds=86400" />
+<!-- Language distribution — Row 2 (shields.io — always works) -->
+<img src="https://img.shields.io/badge/TypeScript-35.4%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-23.5%25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-14.7%25-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS-9.6%25-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-6.8%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/HTML-5.8%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 
 <br/><br/>
 
-<!-- Row 3: Profile summary (backup stats — different service, less rate limited) -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ravigithubcse&theme=tokyonight" width="98%"/>
+<!-- Profile Summary — Row 3 (github-profile-summary-cards — reliable, different service) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ravigithubcse&theme=tokyonight" width="100%" />
 
 <br/>
 
-<!-- Row 4: Activity graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ravigithubcse&theme=tokyo-night&bg_color=0D1117&color=818CF8&line=818CF8&point=ff6b6b&area=true&hide_border=true" width="98%"/>
+<!-- Activity Graph — Row 4 -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ravigithubcse&theme=tokyo-night&bg_color=0D1117&color=818CF8&line=818CF8&point=ff6b6b&area=true&hide_border=true&radius=8" width="100%" />
 
 </div>
+
 
 ---
 
